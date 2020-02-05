@@ -1,12 +1,7 @@
 /*
  * This program takes a number and converts it into
  * a Roman numeral
- * 
  * Momin Choudhry 
- * 10/15/2019
- * Professor Ben White
- * CSC15
- *
  */
 
 // Import scanner  
